@@ -36,14 +36,13 @@ jQuery.ajax( url [, settings ] ) // all settings are optional
 
 $Dollar, Baby!
 
-[jQuery.ajax()](http://api.jquery.com/jquery.ajax/)
-[jQuery.getJSON()](http://api.jquery.com/jquery.getjson/)
+1. [jQuery.ajax()](http://api.jquery.com/jquery.ajax/)
+1. [jQuery.getJSON()](http://api.jquery.com/jquery.getjson/)
 
 ---
 
 ### Building the Move Planner app
 
-### Requests With JQuery
-[The NYT article search API](http://developer.nytimes.com/article_search_v2.json)
-[NYT Implementation Project](https://laurahesse.github.io/NYT-Implementation/)
-[NYT Implementation Project Repo](https://github.com/LauraHesse/NYT-Implementation)
+1. [The NYT article search API](http://developer.nytimes.com/article_search_v2.json)
+1. [NYT Implementation Project](https://laurahesse.github.io/NYT-Implementation/)
+1. [NYT Implementation Project Repo](https://github.com/LauraHesse/NYT-Implementation)
