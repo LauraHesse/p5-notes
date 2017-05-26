@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## AJAX Requests and APIs
 
-You can use the [editor on GitHub](https://github.com/LauraHesse/p5-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**AJAX** - Asynchrous JavaScript And XML request
 
-### Markdown
+An asynchronous request can be fired off **at any time** (before or after a page has loaded) and the response to an asynchronous request often includes HTML that can be dynamically inserted into a page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### Client Server Demonstration
 
-# Header 1
-## Header 2
-### Header 3
+**GET Request:** An internet request for data. Sent from a client to a server.
 
-- Bulleted
-- List
+**Response:** A server's response to a request. Sent from a server to a client. A response to a GET request will usually include data that the client needs to load the page's content.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Necessary Components Of An AJAX Request
 
-[Link](url) and ![Image](src)
-```
+You only need a URL for an AJAX request.
+jQuery.ajax( url [, settings ] ) // all settings are optional
+[link](http://api.jquery.com/jquery.ajax/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## API's
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauraHesse/p5-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Google's APIs / All the Google services you can imagine.](https://developers.google.com/apis-explorer/#p/)
 
-### Support or Contact
+[Giant database of APIs](https://www.programmableweb.com/apis/directory)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+## jQuery - $jQuery
+
+$Dollar, Baby!
+
+[jQuery.ajax()](http://api.jquery.com/jquery.ajax/)
+[jQuery.getJSON()](http://api.jquery.com/jquery.getjson/)
+
+---
+
+### Building the Move Planner app
+
+### Requests With JQuery
+[The NYT article search API](http://developer.nytimes.com/article_search_v2.json)
+[NYT Implementation Project](https://laurahesse.github.io/NYT-Implementation/)
+[NYT Implementation Project Repo](https://github.com/LauraHesse/NYT-Implementation)
