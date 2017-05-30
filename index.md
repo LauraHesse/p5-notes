@@ -157,3 +157,28 @@ Knockout handles Models little bit differently, instead of storing data in a pla
 ### Documentation - Love it, Hate it.. you really need it!
 
 [Knockout example here](https://github.com/LauraHesse/ud989-cat-clicker-ko-starter)
+
+### Computed Observables
+
+Instead of storing as a String, store it as a function
+```
+firstName = "Ben"
+lastName = "Jaffe"
+fullName = function(){
+    return firstName + " " + lastName;
+}
+
+```
+
+---
+**MODELS**
+
+1. Observables
+1. Computed Observables
+1. Observable Arrays
+
+**ViewModel**
+
+**View**
+
+1. Bindings (data-bind="")
