@@ -128,7 +128,7 @@ Organizational Libraries - focus on application organization.
 
 MODELS - represent your DATA.
 COLLECTIONS - Smart ARRAYS filled with smart information.
-MODEL COLLECTION - collections of data
+MODEL COLLECTION - collections of data.
 
 ViewModel, Controller or Octopus - connects and separates Model from the View.
 
