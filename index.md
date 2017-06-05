@@ -182,3 +182,34 @@ fullName = function(){
 **View**
 
 1. Bindings (data-bind="")
+
+---
+CODEBASE
+
+Developers these days are spoiled with choice when it comes to selecting an MV* framework for structuring and organizing their JavaScript web apps.
+
+Backbone, Ember, AngularJS… the list of new and stable solutions continues to grow, but just how do you decide on which to use in a sea of so many options?
+
+To help solve this problem, we created TodoMVC - a project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
+[http://todomvc.com/](http://todomvc.com/)
+
+---
+## Backbone JS
+
+[Backbone JS](http://backbonejs.org/)
+[Project Example](https://github.com/LauraHesse/ud989-todo-app)
+[Project Example Website](https://laurahesse.github.io/ud989-todo-app/)
+
+---
+
+## Getting started with APIs
+
+Various google Map examples [here](https://github.com/LauraHesse/ud864)
+
+### Web Services And Geocoding
+
+ [Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
+
+ [Geocoding service](https://developers.google.com/maps/documentation/javascript/geocoding)
+
+ **Geocoding** is the process of converting addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates (like latitude 37.423021 and longitude -122.083739), which you can use to place markers on a map, or position the map.
